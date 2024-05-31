@@ -1,2 +1,33 @@
-Run On local Host 8000
-Test On postman only Api Server 
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://link-to-project
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
+
+## Acknowledgements
+
+ - Just An Api Server For Movies 
+ - Test On postman
